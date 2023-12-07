@@ -35,7 +35,9 @@ namespace ConsoleApp1
 
              // Array
             int[] numberArray = {1,2,3,4,5,6,7,8,9};
-            System.Console.WriteLine(numberArray.ToString());
+            System.Console.WriteLine(numberArray.Max());
+            // \n
+            System.Console.WriteLine(numberArray.Sum());
             // List
             List<string> myStrings = new List<string>();
             // Legger til en verdi i listen
