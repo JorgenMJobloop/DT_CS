@@ -1,0 +1,6 @@
+{
+    "character HP": 50,
+    "enemy HP": 75,
+    "character maxhit": 15,
+    "enemy maxhit": 25
+}
