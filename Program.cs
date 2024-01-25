@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Runtime.CompilerServices;
+// Struct, fra C, egen datastruktur
 public struct Koordinater
 {
     public double X;
